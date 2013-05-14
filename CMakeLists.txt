@@ -7,7 +7,7 @@
 
 cmake_minimum_required(VERSION 2.6)
 find_package(Rock)
-rock_init(base-interfaces 0.1)
+rock_init(actuator_dispatcher 0.1)
 
 add_definitions("-DOROCOS_TARGET=$ENV{OROCOS_TARGET}")
 
