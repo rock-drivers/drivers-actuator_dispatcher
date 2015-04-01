@@ -2,6 +2,7 @@
   <description brief="">
   </description>
   <author>Matthias Goldhoorn/matthias.goldhoorn@uni-bremen.de</author>
+  <maintainer>Matthias Goldhoorn/matthias.goldhoorn@uni-bremen.de</maintainer>
   <license>LGPL v2.0</license>
   <depend package="base/orogen/types" />
 </package>
